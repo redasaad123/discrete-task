@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Reda Saad\\source\\repos\\prime number\\prime number\\prime number.csproj",
-      "projectName": "prime number",
-      "projectPath": "C:\\Users\\Reda Saad\\source\\repos\\prime number\\prime number\\prime number.csproj",
+      "projectUniqueName": "C:\\Users\\Reda Saad\\source\\repos\\perfect number2\\perfect number2\\perfect number2.csproj",
+      "projectName": "perfect number2",
+      "projectPath": "C:\\Users\\Reda Saad\\source\\repos\\perfect number2\\perfect number2\\perfect number2.csproj",
       "packagesPath": "C:\\Users\\Reda Saad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Reda Saad\\source\\repos\\prime number\\prime number\\obj\\",
+      "outputPath": "C:\\Users\\Reda Saad\\source\\repos\\perfect number2\\perfect number2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Reda Saad\\AppData\\Roaming\\NuGet\\NuGet.Config",

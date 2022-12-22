@@ -1,55 +1,49 @@
 ﻿using System;
 
-namespace prime_number
+namespace perfect_number
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("## Program of Prime Numbers ##");
+            Console.WriteLine("## Program of the Perfect Numbers ##");
             Console.Write("\n");
 
-            Console.Write(" Enter the First Number = ");
+            Console.Write("Enter the First Number : ");
             int n1 = int.Parse(Console.ReadLine());
             Console.Write("\n");
 
-            Console.Write(" Enter the End Number = ");
+            Console.Write("Enter the End Number : ");
             int n2 = int.Parse(Console.ReadLine());
             Console.Write("\n");
 
-            Console.WriteLine(" The Prime Numbers :");
+            Console.WriteLine("The Perfect Number :");
             Console.Write("\n");
 
-            int r, i ,f=0;
-            if (n1 >= 1 && n2>n1)
+            int r, i;
+
+            for (r = n1; r <= n2; r++)
             {
-                for (r = 1; r < n2; r++)
+                int sum = 0;
+                for (i = 1; i < r; i++)
                 {
-                    for (i = 1; i < n2; i++)
+                    if (r % i == 0)
                     {
-                        if (r % i == 0)
-                        {
-                            f++;
-
-                        }
-
+                        sum = sum + i;
                     }
-                    if (f == 2)
-                    {
-                        Console.WriteLine(r);
-                        Console.Write("\n");
-
-                    }
-                    f = 0;
-
+                        
                 }
-
+                if (sum == r)
+                {
+                    
+                    Console.WriteLine(r);
+                    Console.Write("\n");
+                }
+                    
             }
-            else
-                Console.WriteLine("Erroe : Must be the first number >= 1 ");
-
 
             Console.ReadKey();
+
         }
     }
 }

@@ -1,0 +1,14 @@
+C:\Users\Reda Saad\source\repos\perfect number2\perfect number2\bin\Debug\netcoreapp3.1\perfect number2.exe
+C:\Users\Reda Saad\source\repos\perfect number2\perfect number2\bin\Debug\netcoreapp3.1\perfect number2.deps.json
+C:\Users\Reda Saad\source\repos\perfect number2\perfect number2\bin\Debug\netcoreapp3.1\perfect number2.runtimeconfig.json
+C:\Users\Reda Saad\source\repos\perfect number2\perfect number2\bin\Debug\netcoreapp3.1\perfect number2.runtimeconfig.dev.json
+C:\Users\Reda Saad\source\repos\perfect number2\perfect number2\bin\Debug\netcoreapp3.1\perfect number2.dll
+C:\Users\Reda Saad\source\repos\perfect number2\perfect number2\bin\Debug\netcoreapp3.1\perfect number2.pdb
+C:\Users\Reda Saad\source\repos\perfect number2\perfect number2\obj\Debug\netcoreapp3.1\perfect number2.csproj.AssemblyReference.cache
+C:\Users\Reda Saad\source\repos\perfect number2\perfect number2\obj\Debug\netcoreapp3.1\perfect number2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reda Saad\source\repos\perfect number2\perfect number2\obj\Debug\netcoreapp3.1\perfect number2.AssemblyInfoInputs.cache
+C:\Users\Reda Saad\source\repos\perfect number2\perfect number2\obj\Debug\netcoreapp3.1\perfect number2.AssemblyInfo.cs
+C:\Users\Reda Saad\source\repos\perfect number2\perfect number2\obj\Debug\netcoreapp3.1\perfect number2.csproj.CoreCompileInputs.cache
+C:\Users\Reda Saad\source\repos\perfect number2\perfect number2\obj\Debug\netcoreapp3.1\perfect number2.dll
+C:\Users\Reda Saad\source\repos\perfect number2\perfect number2\obj\Debug\netcoreapp3.1\perfect number2.pdb
+C:\Users\Reda Saad\source\repos\perfect number2\perfect number2\obj\Debug\netcoreapp3.1\perfect number2.genruntimeconfig.cache
